@@ -2,11 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 I made this step to create an app in `todo` repository:
-`npx create-react-app todo`
+```npx create-react-app todo
+```
 Therefore I work in this directory.
 To run the project in the development mode use:
-`npm start`
+```npm start
+```
 
-THe following page will reload if you make edits.\
-Open [http://localhost:3000](http://localhost:3000) 
+THe following page will reload if you make edits:
+> [http://localhost:3000](http://localhost:3000) 
 
