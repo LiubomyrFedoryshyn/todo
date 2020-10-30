@@ -11,10 +11,7 @@ To run the project in the development mode use:
 $ npm start
 ```
 
-THe following page will reload if you make edits:
-> [http://localhost:3000](http://localhost:3000) 
-
-The application is published at 
+## The application is published at 
 > https://yanakryshchuk-ucu.github.io/todo/
 
 
