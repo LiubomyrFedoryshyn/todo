@@ -50,16 +50,8 @@ function App() {
   // totos - name of the state, setTodos - used to set the state.
   const [todos, setTodos] = React.useState([
     {
-      text: "Learn about React",
+      text: "Add an item to your TODO List",
       // set that to false to begin with and, when prompted, it will change that to true
-      isCompleted: false
-    },
-    {
-      text: "Meet friend for lunch",
-      isCompleted: false
-    },
-    {
-      text: "Build really cool todo app",
       isCompleted: false
     }
   ]);
